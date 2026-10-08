@@ -1,0 +1,59 @@
+﻿{
+  "Info": {
+    "Class": "clsDbNavPaneGroup",
+    "Description": "Navigation Pane Custom Groups"
+  },
+  "Items": {
+    "Categories": [
+      {
+        "Name": "Cocoon Export Project",
+        "Flags": 0,
+        "Position": 2,
+        "Groups": [
+          {
+            "Name": "Customers",
+            "Flags": 0,
+            "Position": 4,
+            "Objects": [
+            ]
+          },
+          {
+            "Name": "Main",
+            "Flags": 0,
+            "Position": 1,
+            "Objects": [
+            ]
+          },
+          {
+            "Name": "Marketings",
+            "Flags": 0,
+            "Position": 3,
+            "Objects": [
+            ]
+          },
+          {
+            "Name": "Products",
+            "Flags": 0,
+            "Position": 2,
+            "Objects": [
+            ]
+          },
+          {
+            "Name": "Services",
+            "Flags": 2,
+            "Position": 5,
+            "Objects": [
+            ]
+          },
+          {
+            "Name": "Unassigned Objects",
+            "Flags": 4,
+            "Position": 6,
+            "Objects": [
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

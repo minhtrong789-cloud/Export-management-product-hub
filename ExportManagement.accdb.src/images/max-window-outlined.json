@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "max-window-outlined",
+    "FileName": "max-window-outlined.png",
+    "Extension": "png",
+    "ContentHash": "31fc3b0"
+  }
+}

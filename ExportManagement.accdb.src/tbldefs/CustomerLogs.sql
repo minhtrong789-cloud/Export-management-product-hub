@@ -1,0 +1,7 @@
+﻿CREATE TABLE [CustomerLogs] (
+  [LogID] AUTOINCREMENT CONSTRAINT [Index_6A626906_3786_470A] PRIMARY KEY UNIQUE NOT NULL,
+  [CustomerID] LONG CONSTRAINT [FK_CustomerLogs_Customers] REFERENCES [Customers] ([CustomerID]) ON DELETE CASCADE ,
+  [LogDate] DATETIME,
+  [LogTitle] VARCHAR (150),
+  [LogDetails] LONGTEXT
+)

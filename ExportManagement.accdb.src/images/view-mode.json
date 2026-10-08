@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "view-mode",
+    "FileName": "view-mode.png",
+    "Extension": "png",
+    "ContentHash": "8950fc1"
+  }
+}

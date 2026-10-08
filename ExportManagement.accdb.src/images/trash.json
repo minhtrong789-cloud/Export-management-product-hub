@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "trash",
+    "FileName": "trash.png",
+    "Extension": "png",
+    "ContentHash": "958b907"
+  }
+}

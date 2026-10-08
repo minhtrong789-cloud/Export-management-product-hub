@@ -1,0 +1,28 @@
+﻿{
+  "Info": {
+    "Class": "clsDbReport",
+    "Description": "Labels App_UIState Print Settings"
+  },
+  "Items": {
+    "Printer": {
+      "Orientation": "Portrait",
+      "PaperSize": "A4"
+    },
+    "Margins": {
+      "LeftMargin": 0.2306,
+      "TopMargin": 0.1417,
+      "RightMargin": 0.2306,
+      "BotMargin": 0.1417,
+      "DataOnly": false,
+      "Width": 7.8583,
+      "Height": 11.3819,
+      "DefaultSize": true,
+      "Columns": 1,
+      "ColumnSpacing": 0,
+      "RowSpacing": 0,
+      "ItemLayout": "Horizontal Columns",
+      "FastPrint": 1,
+      "Datasheet": 1
+    }
+  }
+}

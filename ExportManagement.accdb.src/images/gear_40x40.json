@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "gear_40x40",
+    "FileName": "gear_40x40.png",
+    "Extension": "png",
+    "ContentHash": "e9645c2"
+  }
+}

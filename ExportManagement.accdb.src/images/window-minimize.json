@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "window-minimize",
+    "FileName": "window-minimize.png",
+    "Extension": "png",
+    "ContentHash": "4d1941b"
+  }
+}

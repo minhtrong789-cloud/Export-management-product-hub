@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "camera",
+    "FileName": "camera.png",
+    "Extension": "png",
+    "ContentHash": "ff973ee"
+  }
+}

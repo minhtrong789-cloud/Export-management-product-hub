@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "max-window-filled",
+    "FileName": "max-window-filled.png",
+    "Extension": "png",
+    "ContentHash": "aa750f6"
+  }
+}

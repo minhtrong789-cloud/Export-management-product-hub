@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "FK_Products_CapacityUnits",
+    "Attributes": 256,
+    "Table": "CapacityUnits",
+    "ForeignTable": "Products",
+    "Fields": [
+      {
+        "Name": "CapacityUnitID",
+        "ForeignName": "CapacityUnitID"
+      }
+    ]
+  }
+}

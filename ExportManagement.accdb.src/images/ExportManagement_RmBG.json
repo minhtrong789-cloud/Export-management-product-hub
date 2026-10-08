@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "ExportManagement_RmBG",
+    "FileName": "ExportManagement_RmBG.png",
+    "Extension": "png",
+    "ContentHash": "44d88b8"
+  }
+}

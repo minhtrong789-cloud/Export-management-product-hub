@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "back_40x40",
+    "FileName": "back_40x40.png",
+    "Extension": "png",
+    "ContentHash": "02b05cb"
+  }
+}
